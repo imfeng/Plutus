@@ -1,0 +1,20 @@
+# starter_shuffle_addrs.py
+
+
+
+
+if __name__ == "__main__":
+    cmd_cpuId = '0' if sys.argv[1] is None else sys.argv[1]
+    cmd_type = 'random' if sys.argv[2] is None else sys.argv[2]
+    permutation_oneNums = int(cmd_type)
+    print(f'cmd_cpuId={cmd_cpuId}, cmd_type={cmd_type}')
+    print(f'total_bytes={total_bytes},\ntargetW={targetW}\npermutation_oneNums={permutation_oneNums}')
+    init()
+    # tester()
+    # if cmd_type == 'random':
+    # starter_random(cmd_cpuId)
+    # starter_shuffle(cmd_cpuId, permutation_oneNums)
+    starter_shuffle_addrs(cmd_cpuId, permutation_oneNums)
+
+    for cpu in range(4):
+        multiprocessing.Process(target=starter_shuffle_addrs, args=(cmd_cpuId,)).start()

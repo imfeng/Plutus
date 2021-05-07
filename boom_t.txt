@@ -1,0 +1,44 @@
+hex private key: 03
+WIF private key: KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU74sHUHy8S
+public key: 02f9308a019258c31049344f85f89d5229b531c845836f99b08601f113bce036f9
+address: 1CUNEBjYrCn2y1SdiUMohaKUi4wpP326Lb
+
+hex private key: 07
+WIF private key: KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU76rnZwVdz
+public key: 025cbdf0646e5db4eaa398f365f2ea7a0e3d419b7e0330e39ce92bddedcac4f9bc
+address: 19ZewH8Kk1PDbSNdJ97FP4EiCjTRaZMZQA
+
+strategy:starter_shuffle + pool_weight_low
+dec private key: 3
+WIF private key: KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU74sHUHy8S
+public key: 02f9308a019258c31049344f85f89d5229b531c845836f99b08601f113bce036f9
+address: 1CUNEBjYrCn2y1SdiUMohaKUi4wpP326Lb
+
+strategy:starter_shuffle + pool_weight_low
+dec private key: 7
+WIF private key: KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU76rnZwVdz
+public key: 025cbdf0646e5db4eaa398f365f2ea7a0e3d419b7e0330e39ce92bddedcac4f9bc
+address: 19ZewH8Kk1PDbSNdJ97FP4EiCjTRaZMZQA
+
+hex private key: 03
+WIF private key: KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU74sHUHy8S
+public key: 02f9308a019258c31049344f85f89d5229b531c845836f99b08601f113bce036f9
+address: 1CUNEBjYrCn2y1SdiUMohaKUi4wpP326Lb
+
+hex private key: 07
+WIF private key: KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU76rnZwVdz
+public key: 025cbdf0646e5db4eaa398f365f2ea7a0e3d419b7e0330e39ce92bddedcac4f9bc
+address: 19ZewH8Kk1PDbSNdJ97FP4EiCjTRaZMZQA
+
+strategy:starter_shuffle + pool_weight_low
+dec private key: 3
+WIF private key: KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU74sHUHy8S
+public key: 02f9308a019258c31049344f85f89d5229b531c845836f99b08601f113bce036f9
+address: 1CUNEBjYrCn2y1SdiUMohaKUi4wpP326Lb
+
+strategy:starter_shuffle + pool_weight_low
+dec private key: 7
+WIF private key: KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU76rnZwVdz
+public key: 025cbdf0646e5db4eaa398f365f2ea7a0e3d419b7e0330e39ce92bddedcac4f9bc
+address: 19ZewH8Kk1PDbSNdJ97FP4EiCjTRaZMZQA
+
